@@ -1,17 +1,17 @@
-# Aarons project
+# README Generator (#title)
   ## [Description](#description)
-  as
-  ![License Badge](https://shields.io/badge/license-APACHE-green)
+  This project is designed to generate a high quality readme file for just about any project on github. Its designed to be easy and simple to use so as to expedite README creation and help busy developers get more done at a quicker pace. The project was designed in node and javascript and generated the README you are reading right now.
+  ![License Badge](https://shields.io/badge/license-MIT-green)
   ## [Installation](#installation) 
-  as
+  Simply download the application open it up and your ready to generate your own personal README.
   ## [Usage](#usage)
-  as
+  In order to use the application open up your bash terminal in vscode and run the command node index.js. The terminal will then ask you a series of questions and inputs about your project, once you have answered all the questions your README will be automatically generated. Messed something up while generating your README? Thats ok, just run node index.js again and a new README can be generated to replace your old one. 
   ## [Contributing](#contributing)
-  as
+  Non-applicable
   ## [Tests](#tests)
-  as
+  Non-applicable
   ## [Liscene](#liscence)
-  https://www.apache.org/licenses/LICENSE-2.0 
+  https://opensource.org/licenses/MIT please refer to this in case you need more information about the license this project is under. 
   ## [Table of contents](#tob)
   > * [Title](#title)
   > * [Description](#description)
@@ -23,6 +23,6 @@
   > * [Table of contents](#tob)
   > * [Questions](#questions)
   ## [Questions](#questions)
-  Please contact at https://github.comAaronWilson113 or aaronmatthew2011@gmail.com if you have any additional questions :)
+  Please contact at https://github.com/AaronWilson113 or aaronmatthew2011@gmail.com if you have any additional questions :)
 
 
