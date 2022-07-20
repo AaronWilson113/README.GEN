@@ -1,4 +1,4 @@
-# README Generator (#title)
+# README Generator 
   ## [Description](#description)
   This project is designed to generate a high quality readme file for just about any project on github. Its designed to be easy and simple to use so as to expedite README creation and help busy developers get more done at a quicker pace. The project was designed in node and javascript and generated the README you are reading right now.
   ![License Badge](https://shields.io/badge/license-MIT-green)
