@@ -52,27 +52,28 @@ function generateMarkdown(data) {
   ## [Description](#description)
   ${data.description}
   ${renderLicenseBadge(data.license)}
-  ## Installation 
+  ## [Installation](#installation) 
   ${data.installationInstructions}
-  ## Usage
+  ## [Usage](#usage)
   ${data.usageInfo}
-  ## Contributing
+  ## [Contributing](#contributing)
   ${data.contributionGuide}
-  ## tests
+  ## [Tests](#tests)
   ${data.testInstruction}
-  ## Liscense 
+  ## [Liscene](#liscence)
   ${renderLicenseLink(data.license)} 
-  ## table of contents
+  ## [Table of contents](#tob)
   > * [Title](#title)
   > * [Description](#description)
-  > * [Developer](#developer)
-  > * [Resources](#resources)
   > * [Installation](#installation) 
   > * [Usage](#usage)
+  > * [Contributing](#contributing)
   > * [Tests](#tests)
+  > * [Liscene](#liscence)
+  > * [Table of contents](#tob)
   > * [Questions](#questions)
-  ## Questions
-  ${data.questions}
+  ## [Questions](#questions)
+  Please contact at https://github.com${data.github} or ${data.email} if you have any additional questions :)
 
 
 `;

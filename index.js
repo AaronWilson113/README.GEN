@@ -52,9 +52,22 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: 'What liscence do you want for your project?',
-            choices: liscences
+            choices: liscences,
 
-        }
+        },
+        {
+            type: 'input',
+            name: 'email', 
+            message: 'please input your email address',
+            validate: (value)=>{ if(value){return true} else {return 'please input your email adress to continue'}}
+
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'please input your github id',
+            validate: (value)=>{ if(value){return true} else {return 'please input your github id to continue'}}
+        },
     ]);
 };
 
