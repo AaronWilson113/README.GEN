@@ -1,35 +1,17 @@
-# Aarons project
+# as
   ## Description
-  Its cool ig
+  as
   ![License Badge](https://shields.io/badge/license-MIT-green)
   ## Installation 
-  big steps
+  as
   ## Usage
-  by pressing buttons
+  as
   ## Contributing
-  give me money
+  as
   ## tests
-  by giving me money
+  as
   ## Liscense 
-  function renderLicenseLink(license) {
-  
-  let liscenceLink;
-
-  switch(liscenceLink){
-  case "MIT":
-    liscenceLink = "https://opensource.org/licenses/MIT"
-    break;
-  case "GPL":
-    liscenceLink = "https://www.gnu.org/licenses/gpl-3.0.en.html"
-    break;
-  case "APACHE":
-    liscenceLink = "https://www.apache.org/licenses/LICENSE-2.0"
-    break;
-  case "None":
-    liscenceLink = ""
-    }
-  return liscenceLink;
-}
+  https://opensource.org/licenses/MIT 
   ## table of contents
   undefined
   ## Questions
